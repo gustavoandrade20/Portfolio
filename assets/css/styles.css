@@ -784,6 +784,10 @@ input:checked+.slider:before {
     padding: 2rem;
   }
 
+  .minhas-habilidades h2 {
+    font-size: 2.2rem;
+  }
+
   .minhas-habilidades .grid {
     grid-template-columns: 1fr;
     gap: 2rem;
