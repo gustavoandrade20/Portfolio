@@ -140,7 +140,7 @@ p {
 .icons {
   display: flex;
   gap: 2rem;
-  margin-right: 2rem;
+  margin-right: 2.5rem;
 }
 
 .icons a {
